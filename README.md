@@ -252,9 +252,18 @@ The library follows these development principles:
 - Improved API documentation and examples.
 - Support for additional integration scenarios.
 
----
+--------------------------------------------------------------------------------------------------------------------------
 
 MedCore Java Library v1.0.0
 
 Developed as a standalone reusable Java library based on the Web Medical Management System project.
 https://github.com/Shabarish2311/WebMedicalManagement.git
+
+----------------------------------------------------------------------------------------------------------------------------
+## Demo Application
+
+Explore the MedCore Java Library through the separate console-based demo application.
+
+Demo Repository: https://github.com/Shabarish2311/MedCore-Demo-Application
+
+The demo application demonstrates medicine validation, inventory management, billing calculations, sales analytics and common validation utilities.
