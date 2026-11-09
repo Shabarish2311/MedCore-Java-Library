@@ -73,46 +73,8 @@ MedCore addresses this problem by providing reusable Java components that can be
 
  5. Project Structure
 
-medcore-java-library/
-│
-├── src/
-│   ├── main/
-│   │   ├── java/
-│   │   │   └── com/medcore/
-│   │   │       ├── analytics/
-│   │   │       │   ├── SaleRecord.java
-│   │   │       │   └── SalesAnalytics.java
-│   │   │       │
-│   │   │       ├── billing/
-│   │   │       │   ├── BillingCalculator.java
-│   │   │       │   └── BillValidator.java
-│   │   │       │
-│   │   │       ├── common/
-│   │   │       │   └── ValidationUtils.java
-│   │   │       │
-│   │   │       ├── inventory/
-│   │   │       │   ├── InventoryCalculator.java
-│   │   │       │   └── StockValidator.java
-│   │   │       │
-│   │   │       └── medicine/
-│   │   │           └── MedicineValidator.java
-│   │   │
-│   │   └── resources/
-│   │
-│   └── test/
-│       ├── java/
-│       │   └── com/medcore/
-│       │       ├── analytics/
-│       │       ├── billing/
-│       │       ├── common/
-│       │       ├── inventory/
-│       │       └── medicine/
-│       │
-│       └── resources/
-│
-├── pom.xml
-├── README.md
-└── target/
+<img width="670" height="803" alt="image" src="https://github.com/user-attachments/assets/b73f2567-f42d-46c6-bb4c-69f4197f81d0" />
+
 
  6. Installation
 
@@ -289,10 +251,6 @@ The library follows these development principles:
 - Additional billing and discount functionalities.
 - Improved API documentation and examples.
 - Support for additional integration scenarios.
-
- 13. License
-
-License information will be added before the public release.
 
 ---
 
